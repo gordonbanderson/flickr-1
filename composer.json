@@ -17,8 +17,8 @@
         "guzzle/http": "Guzzle Adapter for http requests"
     },
     "require-dev": {
-        "guzzle/http": "3.*",
-        "phpunit/phpunit": "3.7.32"
+        "guzzlehttp/guzzle": "^6",
+        "phpunit/phpunit": "^5"
     },
     "autoload":     {
         "psr-0": {
